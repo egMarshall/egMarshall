@@ -1,4 +1,4 @@
-<img align="right" width="400" heigth="300" src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif">
+<img align="right" width="50%" heigth="50%" src="https://c.tenor.com/0BJnwHQtl1wAAAAC/star-wars-hello-there.gif">
 
 # Welcome!
 
