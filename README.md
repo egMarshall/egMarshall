@@ -1,4 +1,4 @@
-<img align="right" width="200" heigth="150" src="./githubReadme.jpeg">
+<img align="right" width="400" heigth="300" src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif">
 
 # Welcome!
 
@@ -11,5 +11,5 @@ I'm currently looking for my first job oportunity!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/egMarshall)](https://github.com/egMarshall)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ericomarshall/)](https://www.linkedin.com/in/ericomarshall/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5551991621232= I am reaching out through you GitHub profile!)](https://api.whatsapp.com/send?phone=5551991621232&text=Hello! I am reaching out through you GitHub profile!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericogmarshall1@gmail.com)](mailto:ericogmarshall1@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5551991621232&text=Olá!)](https://api.whatsapp.com/send?phone=5551991621232&text=Olá!)
