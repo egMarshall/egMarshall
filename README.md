@@ -5,6 +5,7 @@
 ## I'm Érico, thank you for your visit to my profile!
 
 I'm a Fullstack Web Dev Student focusing in in JS with React and NodeJs with TS.
+
 I'm currently looking for my first job oportunity!
 
 ## contact
