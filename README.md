@@ -4,7 +4,7 @@
 
 ## I'm Érico, thank you for your visit to my profile!
 
-I'm a Fullstack Web Dev Student focusing in in Javascript with React, React Native and NodeJs with Typescript.
+I'm a Fullstack Web Dev Student focusing in in React-Native with Typescript and Swift.
 
 
 ## contact
