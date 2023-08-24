@@ -5,7 +5,7 @@
 ## I'm Érico, thank you for your visit to my profile!
 
 I'm a Fullstack Web Dev Student focusing in:
-* React-Native with Typescript;
+* React and React-Native with Typescript;
 * Node with Typescript; 
 * Swift.
 
