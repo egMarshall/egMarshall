@@ -6,8 +6,8 @@
 
 I'm a Fullstack Web Dev Student focusing in:
 * React and React-Native with Typescript;
-* Node with Typescript; 
-* Swift.
+* Node with Typescript;
+* Cypress
 
 
 ## contact
