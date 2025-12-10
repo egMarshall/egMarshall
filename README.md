@@ -1,4 +1,4 @@
-<img align="right" width="50%" heigth="50%" src="https://c.tenor.com/0BJnwHQtl1wAAAAC/star-wars-hello-there.gif">
+<img align="top" width="50%" heigth="50%" src="https://c.tenor.com/0BJnwHQtl1wAAAAC/star-wars-hello-there.gif">
 
 # Welcome!
 
