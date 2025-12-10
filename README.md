@@ -4,10 +4,12 @@
 
 ## I'm Érico, thank you for your visit to my profile!
 
-I'm a Fullstack Web Dev Student focusing in:
+I'm a Fullstack Web Dev focusing in:
 * React and React-Native with Typescript;
 * Node with Typescript;
-* Cypress
+* .Net;
+* Pl1;
+* Java;
 
 
 ## contact
